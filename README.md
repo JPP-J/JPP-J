@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 **Data Scientist** | 💡 Passionate about Data alytical, BI, ML. AI, LLMs, NLP, and Real-World Applications  
+🎓 **Data Scientist** | 💡 Passionate about Data analytical, BI, ML. AI, LLMs, NLP, and Real-World Applications  
 🎓 Currently pursuing a Master's in Data Science at **Thammasat University**  
 📈 GPA: **3.74**
 
