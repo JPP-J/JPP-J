@@ -2,7 +2,7 @@
 
 🎓 **Data Scientist** | 💡 Passionate about Data analytical, BI, ML. AI, LLMs, NLP, and Real-World Applications  
 🎓 Currently pursuing a Master's in Data Science at **Thammasat University**  
-📈 GPA: **3.74**
+📈 GPA: **3.73**
 
 ## 🧠 Expertise
 
