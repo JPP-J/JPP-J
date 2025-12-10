@@ -4,6 +4,7 @@
 🎓 Currently pursuing a Master's in Data Science at **Thammasat University**  
 📈 GPA: **3.73**
 
+
 ## 🧠 Expertise
 
 ### 🛠️ Programming & Tools
